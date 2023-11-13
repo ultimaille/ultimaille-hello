@@ -11,5 +11,7 @@ int main(int argc, char** argv) {
     // Display dot product
     std::cout << "( " << a << ") . ( " << b << ") = " << a * b << std::endl;
 
+    // PUT YOUR CODE HERE
+
     return 0;
 }
